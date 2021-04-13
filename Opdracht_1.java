@@ -1,10 +1,11 @@
-//import java.util.Scanner;
-class Demo {
+class Opdracht1 {
     public static void main(String[] args) {
-        String str1 = "ko";
-        String str2 = "nijn";
+        System.out.println("OPDRACHT 1");
+        String str1 = "wor";
+        String str2 = "tel";
         String str3 = "tjes";
-        String result = str1 + str2 + str3;
+        String str4 = "taart";
+        String result = str1 + str2 + str3 +str4;
         System.out.println(result);
     }   
 }
